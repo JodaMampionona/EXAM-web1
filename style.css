@@ -1,0 +1,29 @@
+body {
+    background-color: bisque;
+    padding: 125px 14px 0;
+}
+.container{
+    max-width: 700px;
+    min-width:300px;
+    margin:0 auto;
+    border-radius:2px;
+    padding:12px;
+    
+    display:flex;
+    gap:300px;
+    align-items: center;
+    justify-content: center;
+}
+.image{
+    width:200px;
+    height: 200px;
+}
+.titre{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(61, 129, 206);
+}
+.apart{
+    border: 2px solid black;
+    padding: 12px;
+    border-color: rgb(95, 63, 16);
+}
